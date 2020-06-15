@@ -1,6 +1,9 @@
 node_modules/
 logs/
 
+.DS_Store
+
+**/.DS_Store
 get_*
 
 dao/mariaPool.js
